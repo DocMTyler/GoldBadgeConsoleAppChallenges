@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafeMenu", "Menu\KomodoCafeMenu.csproj", "{A9420AF4-90D9-4442-863E-A834055650EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafeMenu_RepositoryTests", "CafeMenuRepositoryTests\KomodoCafeMenu_RepositoryTests.csproj", "{986A1229-09E4-4413-97A5-1EADCDA341E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KomodoCafeMenu_Console", "KomodoCafeMenu_Console\KomodoCafeMenu_Console.csproj", "{D6D32E22-FC4E-4238-AD26-273D6C2D5443}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Menu", "Menu", "{266D0344-3FA1-47A2-B0A3-25C97D46A687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9420AF4-90D9-4442-863E-A834055650EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9420AF4-90D9-4442-863E-A834055650EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9420AF4-90D9-4442-863E-A834055650EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9420AF4-90D9-4442-863E-A834055650EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986A1229-09E4-4413-97A5-1EADCDA341E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986A1229-09E4-4413-97A5-1EADCDA341E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986A1229-09E4-4413-97A5-1EADCDA341E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986A1229-09E4-4413-97A5-1EADCDA341E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D32E22-FC4E-4238-AD26-273D6C2D5443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D32E22-FC4E-4238-AD26-273D6C2D5443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D32E22-FC4E-4238-AD26-273D6C2D5443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D32E22-FC4E-4238-AD26-273D6C2D5443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A9420AF4-90D9-4442-863E-A834055650EF} = {266D0344-3FA1-47A2-B0A3-25C97D46A687}
+		{986A1229-09E4-4413-97A5-1EADCDA341E6} = {266D0344-3FA1-47A2-B0A3-25C97D46A687}
+		{D6D32E22-FC4E-4238-AD26-273D6C2D5443} = {266D0344-3FA1-47A2-B0A3-25C97D46A687}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EBF8384-FB1D-46B7-BCCD-450E49BC4D2B}
+	EndGlobalSection
+EndGlobal

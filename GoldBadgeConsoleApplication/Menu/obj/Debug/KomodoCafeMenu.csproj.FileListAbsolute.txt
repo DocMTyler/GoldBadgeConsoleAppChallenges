@@ -1,0 +1,6 @@
+C:\Users\mtyle\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleApplicationChallenge\GoldBadgeConsoleApplication\Menu\bin\Debug\Menu.dll
+C:\Users\mtyle\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleApplicationChallenge\GoldBadgeConsoleApplication\Menu\bin\Debug\Menu.pdb
+C:\Users\mtyle\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleApplicationChallenge\GoldBadgeConsoleApplication\Menu\obj\Debug\KomodoCafeMenu.csprojAssemblyReference.cache
+C:\Users\mtyle\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleApplicationChallenge\GoldBadgeConsoleApplication\Menu\obj\Debug\KomodoCafeMenu.csproj.CoreCompileInputs.cache
+C:\Users\mtyle\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleApplicationChallenge\GoldBadgeConsoleApplication\Menu\obj\Debug\Menu.dll
+C:\Users\mtyle\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleApplicationChallenge\GoldBadgeConsoleApplication\Menu\obj\Debug\Menu.pdb
