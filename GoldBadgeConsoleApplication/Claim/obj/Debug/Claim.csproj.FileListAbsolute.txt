@@ -1,0 +1,6 @@
+C:\Users\mtyle\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleApplicationChallenge\GoldBadgeConsoleApplication\Claim\bin\Debug\Claim.dll
+C:\Users\mtyle\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleApplicationChallenge\GoldBadgeConsoleApplication\Claim\bin\Debug\Claim.pdb
+C:\Users\mtyle\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleApplicationChallenge\GoldBadgeConsoleApplication\Claim\obj\Debug\Claim.csprojAssemblyReference.cache
+C:\Users\mtyle\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleApplicationChallenge\GoldBadgeConsoleApplication\Claim\obj\Debug\Claim.csproj.CoreCompileInputs.cache
+C:\Users\mtyle\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleApplicationChallenge\GoldBadgeConsoleApplication\Claim\obj\Debug\Claim.dll
+C:\Users\mtyle\Desktop\ElevenFiftyProjects\GoldBadge\GoldBadgeConsoleApplicationChallenge\GoldBadgeConsoleApplication\Claim\obj\Debug\Claim.pdb

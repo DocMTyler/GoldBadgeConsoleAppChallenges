@@ -12,13 +12,11 @@ namespace KomodoCafeMenu_Console
     {
         static void Main(string[] args)
         {
-            
-            
             //Create new menu repository entry 
             CafeMenuRepository _cafeMenuRepository = new CafeMenuRepository();
-            
+
             //create a list to hold menu items
-            List<CafeMenu> cafeMenuEntries = new List<CafeMenu>();
+            List<CafeMenu> cafeMenuEntries = _cafeMenuRepository.ReadMenu();
 
             //seed some content
             SeedContent();
@@ -43,7 +41,7 @@ namespace KomodoCafeMenu_Console
                     Console.ReadLine();
                     break;
                 }
-                else if (menuInputResponse != 1 && menuInputResponse != 2 && menuInputResponse != 3 && menuInputResponse != 4)
+                else if (menuInputResponse < 1 && menuInputResponse > 4)
                 {
                     Console.WriteLine("Please enter a valid response");
                     menuRunning = true;
@@ -112,9 +110,11 @@ namespace KomodoCafeMenu_Console
                     //prompt user input
                     Console.WriteLine("Which item would you like to remove? Please enter the name of the menu item");
                     string removeFromMenuInput = Console.ReadLine();
+                    //cafeMenuEntries.ToString();
                     
                     //having problem with handling cases where the user input is not contained in the list
-                
+                    //if(cafeMenuEntries.Contains(removeFromMenuInput))
+                    
                     foreach (CafeMenu menuEntryName in menuEntry)
                     {
                         if (removeFromMenuInput == menuEntryName.Name)

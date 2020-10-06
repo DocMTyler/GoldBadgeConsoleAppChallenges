@@ -26,7 +26,7 @@ namespace KomodoCafeMenu
         //Read the entire list of menu objects
         public List<CafeMenu> ReadMenu()
         {
-            return _menuItems.ToList();
+            return _menuItems;
         }
         
         //Delete a menu object
